@@ -18,8 +18,7 @@ public class ProductNumber {
 			}
 			Math.max(max_res, res);
 		}
-		
-		
+			
 	}
 
 }
